@@ -1,6 +1,6 @@
 import React from 'react';
 import { Select, Typography, Row, Col, Avatar, Card } from 'antd';
-import { useGetCryptoNewsQuery } from '../services/cryptoNewsAPI';
+// import { useGetCryptoNewsQuery } from '../services/cryptoNewsAPI';
 
 const { Option } = Select;
 
